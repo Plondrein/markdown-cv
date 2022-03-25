@@ -66,7 +66,7 @@ _Cucumber, Playwright_
 ## Tooling
 
 __CI/CD__
-_Gerrit, Jenkins, Artifactory, SonarQube, AWS_
+_Gerrit, Jenkins, Docker, Artifactory, SonarQube, AWS_
 
 __Management__
 _Confluence, Jira, Miro_
